@@ -22,7 +22,7 @@ Whatsapp Otomatik Mesaj Spam Botu.
 
 - Hesap olmadan devam edin ve masaüstüne kısayol oluşturun.
 
-- Whatsapp Web'e giriş yapın.
+- Oluşturduğunuz profilden Whatsapp Web'e giriş yapın.
 
 - Oluşturulan kısayolun özelliklerine girip dosya konumunu kopyalayın Win+R üzerinden kopyaladığınız konuma gidin, ayrıca özellikler kısmındaki konumunun sonundaki klasörün adına bakın.
 
