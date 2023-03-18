@@ -30,6 +30,6 @@ Whatsapp Otomatik Mesaj Spam Botu.
 
 - Bunları yaptıktan sonra python dosyasını IDE üzerinde açın içindeki yönergeleri yapın.
 
-- Daha sonrasında çalışır durumda olucaktır, sorun çıkarsa Chrome üzerinden chrome://version adresine gidip sürümünüze uygun chromedriver'ı google üzerinden indirip 20.Kod satırını düzenleyin.
+- Daha sonrasında çalışır durumda olucaktır, sorun çıkarsa Chrome üzerinden chrome://version adresine gidip sürümünüze uygun chromedriver'ı google üzerinden indirip 20.Kod satırını düzenleyin ve chromedriver.exe'yi C diskine atın.
 
   
